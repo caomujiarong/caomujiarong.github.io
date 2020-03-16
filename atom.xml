@@ -45,14 +45,13 @@
     <published>2019-12-21T02:11:39.000Z</published>
     <updated>2020-03-15T10:05:48.119Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello world:<br>    printf(“hello world”);</p>]]></content>
+    <content type="html"><![CDATA[<p>Hello world:<br>printf(“hello world”);</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Hello world:&lt;br&gt;    printf(“hello world”);&lt;/p&gt;
-
+        &lt;p&gt;Hello world:&lt;br&gt;printf(“hello world”);&lt;/p&gt;
       
     
     </summary>
